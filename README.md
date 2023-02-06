@@ -1,4 +1,4 @@
-# Simple-TCP-Python-Chat-App
+# simple-tcp-python-chat-app
 
 [1]HOW CAM I USE THIS ?
 
